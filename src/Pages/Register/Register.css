@@ -1,0 +1,50 @@
+.register-area {
+    background-color: #F8FAFC;
+}
+
+.register-container {
+    margin: 0 auto;
+    width: 500px;
+    height: 420px;
+    background-color: white;
+    border: 1px solid #ABABAB;
+    margin-top: 20px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding-left: 54px;
+    padding-right: 54px;
+}
+
+.register-title {
+    width: 292px;
+    height: 30px;
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: -15px;
+    margin-top: 26px;
+    margin-bottom: 34px;
+}
+
+.register-container input {
+    width: 100%;
+    height: 25px;
+    border: none;
+    border-bottom: 1px solid #C5C5C5;
+    margin-bottom: 25px;
+}
+
+.register-date {
+    width: 100%;
+    height: 35px;
+    margin-bottom: 8px;
+}
+
+.registration-btn {
+    background-color: #3F90FC;
+    width: 100%;
+    height: 35px;
+    border: none;
+    color: white;
+}

@@ -1,0 +1,58 @@
+.signup-section {
+    background-color: #f8fafc;
+}
+
+.signup-area {
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-top: 20px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.signup-container {
+    /* margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-top: 20px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+
+
+.signup-with {
+    font-weight: bold;
+}
+
+.have-account {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.input-field {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.go-to-login {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.reset-password {
+    border: none;
+    background-color: white;
+    color: green;
+}

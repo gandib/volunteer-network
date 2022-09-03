@@ -1,0 +1,81 @@
+.add-event-title {
+    background-color: white;
+    margin: 0;
+    text-align: left;
+    margin-left: -10px;
+}
+
+.add-events-section {
+    background-color: #F8FAFC;
+    margin: 50px;
+}
+
+.add-events-container {
+    background-color: white;
+    border: 1px solid #eee8e8;
+    width: 90%;
+    height: 300px;
+    margin: 20px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.event-title {
+    margin-top: 26px;
+    margin-bottom: 10px;
+}
+
+.title-input {
+    width: 100%;
+}
+
+.event-description {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.description-box {
+    width: 100%;
+}
+
+.event-date {
+    margin-top: 26px;
+    margin-bottom: 10px;
+}
+
+.datepicker {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+.uploadImage {
+    width: 173px;
+    height: 40px;
+    border: none;
+    text-align: left;
+    color: #0084FF;
+    margin-top: 10px;
+    border: 1px solid #0084FF;
+    border-radius: 7px;
+}
+
+.uploadimg {
+    width: 24px;
+    height: 24px;
+}
+
+.event-btn {
+    background-color: #0084FF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 108px;
+    height: 37px;
+}
+
+.event-btn-container {
+    display: flex;
+    justify-content: end;
+    margin-right: 55px;
+}

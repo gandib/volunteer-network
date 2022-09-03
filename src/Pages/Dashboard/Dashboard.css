@@ -1,0 +1,51 @@
+.dashboard-container {
+    background-color: #F8FAFC;
+}
+
+.dashboard-first-column {
+    background-color: white;
+}
+
+.dashboard-volunteer {
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.dashboard-volunteer img {
+    width: 17px;
+    height: 17px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.dashboard-volunteer-2 {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.dashboard-volunteer-2 img {
+    width: 17px;
+    height: 17px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.volunteer-btn {
+    height: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    border: none;
+    background-color: white;
+}
+
+.volunteer-btn:focus {
+    color: #207FEE;
+}
+
+.volunteer-btn-active {
+    color: #207FEE;
+}

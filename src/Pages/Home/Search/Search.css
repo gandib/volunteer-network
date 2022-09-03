@@ -1,0 +1,23 @@
+.search-field {
+    border: 1px solid #D6D6D6;
+    width: 470px;
+    height: 50px;
+    /* border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px; */
+    border-radius: 8px;
+    color: #B0B0B0;
+    background-color: #FBFBFB;
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+.search-btn {
+    background-color: #3F90FC;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    color: white;
+    width: 118px;
+    height: 50px;
+    margin-top: 26px;
+    margin-left: -118px;
+}
